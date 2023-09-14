@@ -13,7 +13,6 @@ YOURFOLDERNAME
     ->data
     ->Raw data
     HOW_TO.TXT
-    Library.bat
     Main.py
     TO_RUN.bat
 
